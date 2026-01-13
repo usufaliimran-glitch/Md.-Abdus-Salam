@@ -1,0 +1,8 @@
+{
+  "name": "Golf Meets Beauty",
+  "description": "A premium lifestyle and performance brand web application featuring golf apparel, beauty essentials, and exclusive events.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
